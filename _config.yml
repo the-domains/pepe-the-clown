@@ -1,6 +1,6 @@
 name: pepe-the-clown
 favicon: null
-layout_spectrum: 0.9698006752878428
+layout_spectrum: 1
 typography_spectrum: 0.34091979288496077
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.9077392325270921
-  lightness: 0.4675358822569251
-  saturation: 0.8029541531577706
-  rhythmicContrast: 0.28103406517766416
+  brandStrength: 1
+  lightness: 0.9375
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
